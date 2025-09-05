@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>prat</title>
+        <link rel="stylesheet" href="ravi.css">
+    </head>
+    <body>
+        <h1 style=text-align:center;color:red;>HELLO PLAYER</h1>
+        <h3 style=text-align:center;color:red;>Try your luck!</h3>
+        <form>
+            <fieldset id="box">
+            <h2 id="a" style=text-align:center;color:black;font-style:italic;></h2>
+            <br>
+            <input id="input1" type="number" placeholder="Guess the number here!"><br><br><br>
+            <div id="c">Game Result:</div><br>
+            <div id="cont1">Numbers generated:</div><br>
+            <div id="cont2">Total Games Played:</div>
+            <div id="cont3">Total Games Won:</div>
+           <br><br>
+            <button id="b1" type="button" onclick="aclick()">Guess it</button>
+            <button id="b2" type="button" onclick="bclick()">Stop </button>
+        </fieldset>
+        </form>
+        <script src="scripts/scripts.js"></script>
+    </body>
+    
+</html>
