@@ -44,6 +44,8 @@ Make UI responsive for mobile devices
 
 Add sound effects or animations
 
+open in Browser: https://guess-ramdom.netlify.app/
+
 Author:
 
 RAVI PRASATH V
