@@ -1,0 +1,90 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_H59bpyj0b47tABfYf9HmXocU2OHnJ8N3uagSEWU1dgXHn44t1uO0G9xPwmrW1X_HHgEw11ZTTRlhmqoCVGSbOgMvObDxbHQpp6Ae51VU86XMBe2i5bv2op0NyDT1C-5ykGvsozphruKMSaYRj0Lc5V_HfuI7Fw70-OtTZnrIRtEWVOfmxnR19jB43UBx/s3000/1.jpg");
+}
+#input1{
+    border-color: red;
+    border-radius: 20px;
+    box-sizing: 20px;
+    align-items: center;
+    padding:20px;
+    font-size:20px;
+}
+#input2{
+    border-color: red;
+    border-radius: 20px;
+    box-sizing: 20px;
+    align-items: center;
+    padding:10px;
+    padding-right:30px;
+    font-size:20px;
+}
+#input1:hover{
+transform:scale(0.99);
+}
+#box{
+    padding:30px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    box-sizing: 100px;
+    border-width: 4px;
+    border-color:black;
+    border-radius: 20px;
+    position:fixed;
+    box-shadow: 30px 30px 20px black;
+    align-items: center;
+    opacity:50%;
+}
+#b1{
+    padding:10px;
+    font-weight:bold;
+    border-radius: 20px;
+    margin-left: 20px;
+
+}
+#b1:hover{
+    cursor:pointer;
+    font-size: 13px;
+    background-color:green;
+    transform:scale(0.99);
+}
+#b2{
+    padding:10px;
+    font-weight:bold;
+    border-radius: 20px;
+    margin-left: 100px;
+
+}
+#b2:hover{
+    cursor:pointer;
+    font-size: 13px;
+    background-color:red;
+    transform:scale(0.99);
+}
+
+#cont1{
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+}
+#cont2{
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+}
+#cont3{
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+}
+#c{
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-transform: capitalize;
+}
